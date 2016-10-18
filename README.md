@@ -3,7 +3,9 @@ This is only template project created using angular2-seed
 
 # angular2-seed
 Created Simple application angular2-seed 
+
 Start this applicaion 
+
 go to command prompt
 
 npm init
